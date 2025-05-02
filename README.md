@@ -40,7 +40,7 @@ This is a simple **Python mini project** that allows users to track their habits
 ## 📎 Notes
 
 - You can't mark more completed habits than you've added.
-- Data is **not persistent** unless you enable JSON logging (see code comments).
+- Data is **not persistent** unless you enable JSON logging .
 
 ---
 ## 🚀 Example Usage
